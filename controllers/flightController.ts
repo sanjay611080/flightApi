@@ -1,4 +1,3 @@
-import { Request, Response } from 'express';
 import { getFlightData, filterRoutes } from '../models/flightModel';
 import { calculateTotalPrice } from '../utils/priceCalculator';
 
@@ -38,7 +37,7 @@ export const getPassengerDetails = async (req: any, res: any) => {
   const { source, destination, date, adults, children, infants, luggage } = req.query;
 
   if (!source || !destination || !date || !adults || !children || !infants || !luggage) {
-    return res.status(400).json({ error: 'Please provide source, destination, date, adults, children, infants, and luggage' });
+    return res.status(400).json({ error: 'Please enter details' });
   }
 
   try {
