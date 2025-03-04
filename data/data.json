@@ -1,0 +1,711 @@
+[
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹1,614",
+        "departure_time": "06:00 AM",
+        "arrival_time": "07:30 AM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹1,869",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:30 AM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,133",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,100",
+        "departure_time": "08:00 AM",
+        "arrival_time": "10:30 AM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,350",
+        "departure_time": "11:30 AM",
+        "arrival_time": "02:00 PM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,450",
+        "departure_time": "03:00 PM",
+        "arrival_time": "05:30 PM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,700",
+        "departure_time": "06:30 AM",
+        "arrival_time": "08:00 AM",
+        "remaining_seats_percentage": "66.67"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,950",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,600",
+        "departure_time": "07:00 AM",
+        "arrival_time": "08:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,850",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,000",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,800",
+        "departure_time": "05:00 AM",
+        "arrival_time": "07:00 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹3,000",
+        "departure_time": "08:30 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "02:00 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,500",
+        "departure_time": "10:00 AM",
+        "arrival_time": "12:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,700",
+        "departure_time": "01:00 PM",
+        "arrival_time": "03:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,900",
+        "departure_time": "04:00 PM",
+        "arrival_time": "06:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹1,614",
+        "departure_time": "06:00 AM",
+        "arrival_time": "07:30 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹1,869",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,133",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,100",
+        "departure_time": "08:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,350",
+        "departure_time": "11:30 AM",
+        "arrival_time": "02:00 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,450",
+        "departure_time": "03:00 PM",
+        "arrival_time": "05:30 PM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,700",
+        "departure_time": "06:30 AM",
+        "arrival_time": "08:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,950",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,600",
+        "departure_time": "07:00 AM",
+        "arrival_time": "08:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,850",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,000",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,800",
+        "departure_time": "05:00 AM",
+        "arrival_time": "07:00 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹3,000",
+        "departure_time": "08:30 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "02:00 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹2,500",
+        "departure_time": "10:00 AM",
+        "arrival_time": "12:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "airAsia",
+        "price": "₹2,700",
+        "departure_time": "01:00 PM",
+        "arrival_time": "03:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-15",
+        "airline": "vistara",
+        "price": "₹2,900",
+        "departure_time": "04:00 PM",
+        "arrival_time": "06:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-04-16",
+        "airline": "indigo",
+        "price": "₹2,200",
+        "departure_time": "07:00 AM",
+        "arrival_time": "09:00 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-04-16",
+        "airline": "airAsia",
+        "price": "₹2,450",
+        "departure_time": "10:30 AM",
+        "arrival_time": "12:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-04-16",
+        "airline": "vistara",
+        "price": "₹2,600",
+        "departure_time": "01:30 PM",
+        "arrival_time": "03:30 PM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "indigo",
+        "price": "₹2,500",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "airAsia",
+        "price": "₹2,750",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "vistara",
+        "price": "₹3,000",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-04-16",
+        "airline": "indigo",
+        "price": "₹2,600",
+        "departure_time": "07:00 AM",
+        "arrival_time": "08:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-04-16",
+        "airline": "airAsia",
+        "price": "₹2,800",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-04-16",
+        "airline": "vistara",
+        "price": "₹3,100",
+        "departure_time": "01:30 PM",
+        "arrival_time": "03:00 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "indigo",
+        "price": "₹2,300",
+        "departure_time": "06:30 AM",
+        "arrival_time": "08:00 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "airAsia",
+        "price": "₹2,500",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:00 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-04-16",
+        "airline": "vistara",
+        "price": "₹2,750",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-15",
+        "airline": "indigo",
+        "price": "₹1,614",
+        "departure_time": "06:00 AM",
+        "arrival_time": "07:30 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-16",
+        "airline": "airAsia",
+        "price": "₹1,869",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "date": "2023-04-17",
+        "airline": "vistara",
+        "price": "₹2,133",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-18",
+        "airline": "indigo",
+        "price": "₹2,100",
+        "departure_time": "08:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-19",
+        "airline": "airAsia",
+        "price": "₹2,350",
+        "departure_time": "11:30 AM",
+        "arrival_time": "02:00 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "date": "2023-04-20",
+        "airline": "vistara",
+        "price": "₹2,450",
+        "departure_time": "03:00 PM",
+        "arrival_time": "05:30 PM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-21",
+        "airline": "indigo",
+        "price": "₹2,700",
+        "departure_time": "06:30 AM",
+        "arrival_time": "08:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-22",
+        "airline": "airAsia",
+        "price": "₹2,950",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date": "2023-04-23",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "01:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-24",
+        "airline": "indigo",
+        "price": "₹2,600",
+        "departure_time": "07:00 AM",
+        "arrival_time": "08:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-25",
+        "airline": "airAsia",
+        "price": "₹2,850",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "date": "2023-04-26",
+        "airline": "vistara",
+        "price": "₹3,000",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-27",
+        "airline": "indigo",
+        "price": "₹2,800",
+        "departure_time": "05:00 AM",
+        "arrival_time": "07:00 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-28",
+        "airline": "airAsia",
+        "price": "₹3,000",
+        "departure_time": "08:30 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "date": "2023-04-29",
+        "airline": "vistara",
+        "price": "₹3,200",
+        "departure_time": "12:00 PM",
+        "arrival_time": "02:00 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-04-30",
+        "airline": "indigo",
+        "price": "₹2,500",
+        "departure_time": "10:00 AM",
+        "arrival_time": "12:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-05-01",
+        "airline": "airAsia",
+        "price": "₹2,700",
+        "departure_time": "01:00 PM",
+        "arrival_time": "03:30 PM"
+    },
+    {
+        "source": "Chennai",
+        "destination": "Delhi",
+        "date": "2023-05-02",
+        "airline": "vistara",
+        "price": "₹2,900",
+        "departure_time": "04:00 PM",
+        "arrival_time": "06:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-05-03",
+        "airline": "indigo",
+        "price": "₹2,200",
+        "departure_time": "07:00 AM",
+        "arrival_time": "09:00 AM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-05-04",
+        "airline": "airAsia",
+        "price": "₹2,450",
+        "departure_time": "10:30 AM",
+        "arrival_time": "12:30 PM"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "date": "2023-05-05",
+        "airline": "vistara",
+        "price": "₹2,600",
+        "departure_time": "01:30 PM",
+        "arrival_time": "03:30 PM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-05-06",
+        "airline": "indigo",
+        "price": "₹2,500",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:00 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-05-07",
+        "airline": "airAsia",
+        "price": "₹2,750",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:30 AM"
+    },
+    {
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "date": "2023-05-08",
+        "airline": "vistara",
+        "price": "₹3,000",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-05-09",
+        "airline": "indigo",
+        "price": "₹2,600",
+        "departure_time": "07:00 AM",
+        "arrival_time": "08:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-05-10",
+        "airline": "airAsia",
+        "price": "₹2,800",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM"
+    },
+    {
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "date": "2023-05-11",
+        "airline": "vistara",
+        "price": "₹3,100",
+        "departure_time": "01:30 PM",
+        "arrival_time": "03:00 PM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-05-12",
+        "airline": "indigo",
+        "price": "₹2,300",
+        "departure_time": "06:30 AM",
+        "arrival_time": "08:00 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-05-13",
+        "airline": "airAsia",
+        "price": "₹2,500",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:00 AM"
+    },
+    {
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "date": "2023-05-14",
+        "airline": "vistara",
+        "price": "₹2,750",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:30 PM"
+    }
+]
