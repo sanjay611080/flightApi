@@ -1,13 +1,4 @@
 # Flight API
-
-## Table of Contents
-1. [Technologies Used](#technologies-used)
-2. [Setup Instructions](#setup-instructions)
-3. [API Routes and Usage](#api-routes-and-usage)
-4. [Mock Data](#mock-data)
-5. [Testing API on Vercel](#testing-api-on-vercel)
-6. [How the API Works](#how-the-api-works)
-
 ---
 
 ## Technologies Used
@@ -19,6 +10,7 @@
 - **path**: To handle and transform file paths.
 - **Cors**: To enable cross-origin requests for development.
 - **Vercel**: Platform for hosting and deploying the API.
+- **Nodemon**: for start server
 
 ---
 
@@ -40,7 +32,7 @@ Follow these steps to set up the project locally:
    
 4. **Run the server**;
    ```bash
-   npm run dev
+   npm start
 
 
 
